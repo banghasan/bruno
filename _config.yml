@@ -3,7 +3,7 @@ title: "Bruno Marinho"
 
 # Use absolute URL when not hosting on the root of server
 
-url: ""
+url: "https://banghasan.github.io/bruno/"
 baseurl: "" 
 
 markdown: kramdown
@@ -27,6 +27,3 @@ sass:
   style:            :compressed
 
 
-
-
-port: 8989
