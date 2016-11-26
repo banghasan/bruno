@@ -4,7 +4,7 @@ title: "Bruno Marinho"
 # Use absolute URL when not hosting on the root of server
 
 url: "https://banghasan.github.io/bruno/"
-baseurl: "" 
+baseurl: "/bruno/" 
 
 markdown: kramdown
 permalink: /writing/:title
